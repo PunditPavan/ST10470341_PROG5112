@@ -1,0 +1,16 @@
+[
+    {
+        "messageText": "hi",
+        "messageNumber": 1,
+        "recipient": "+12123456788",
+        "messageID": "2833691243",
+        "messageHash": "28:1:HI"
+    },
+    {
+        "messageText": "fortnite",
+        "messageNumber": 2,
+        "recipient": "+12123456789",
+        "messageID": "6607051210",
+        "messageHash": "66:2:FORTNITE"
+    }
+]
